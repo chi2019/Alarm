@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="delete_alarm">Delete the selected alarm</string>
+</resources>
